@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.585,=C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.259,C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Predator.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.769,C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Animal.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.100,C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\WildAnimal.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.808,C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\detec\Desktop\poit\2\OOP\labs\1\lab1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.454,C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Herbivore.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.674,=C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.163,=C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.507,=C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.493,=C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.938,=C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.124,=C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.355,=C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.564,C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\DomasticAnimal.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.664,C:\Users\detec\Desktop\poit\2\OOP\labs\1\Herbivore.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.653,C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\GrassFeed.pas=C:\Users\detec\Desktop\poit\2\OOP\labs\1\GrassFeed.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\detec\Desktop\poit\2\OOP\labs\1\OOP_1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.808,C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\detec\Desktop\poit\2\OOP\labs\1\lab1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.206,C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Animal.pas=C:\Users\detec\Desktop\poit\2\OOP\labs\1\Animal.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.922,C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\DomasticAnimal.pas=C:\Users\detec\Desktop\poit\2\OOP\labs\1\DomasticAnimal.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.726,C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\ExoticDomastic.pas=C:\Users\detec\Desktop\poit\2\OOP\labs\1\ExoticDomastic.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.245,C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\GrassFeed.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.300,C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\ExoticDomastic.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.989,=C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.636,C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Predator.pas=C:\Users\detec\Desktop\poit\2\OOP\labs\1\Predator.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.980,C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\WildAnimal.pas=C:\Users\detec\Desktop\poit\2\OOP\labs\1\WildAnimal.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.071,C:\Users\detec\OneDrive\Документы\Embarcadero\Studio\Projects\Herbivore.pas=C:\Users\detec\Desktop\poit\2\OOP\labs\1\Herbivore.pas</Transaction>
+  </Transactions>
+</BorlandProject>

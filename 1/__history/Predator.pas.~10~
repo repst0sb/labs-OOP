@@ -1,0 +1,25 @@
+unit Predator;
+
+interface
+
+uses WildAnimal, Vcl.ExtCtrls;
+
+type
+  TPredator = class(TWildAnimal)
+  private
+    FPrey: string;
+  public
+    constructor Create(const AName, AColor: string; ADanger: integer;
+      APrey: string; AImage: TImage);
+  end;
+
+implementation
+
+constructor TPredator.Create(const AName, AColor: string; ADanger: integer;
+  APrey: string; AImage: TImage);
+begin
+  inherited Create(AName, AColor, ADanger, AImage);
+  FPrey := APrey;
+end;
+
+end.

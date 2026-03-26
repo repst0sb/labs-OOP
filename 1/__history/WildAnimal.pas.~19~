@@ -1,0 +1,24 @@
+unit WildAnimal;
+
+interface
+
+Uses Animal, Vcl.ExtCtrls;
+
+type
+  TWildAnimal = class(TAnimal)
+  private
+    FDanger: string;
+  public
+    constructor Create(AIndex: integer; AColor: string; ADanger: string; AImage: TImage);
+  end;
+
+implementation
+
+constructor TWildAnimal.Create(AIndex: integer; AColor: string; ADanger: string;
+  AImage: TImage);
+begin
+  inherited Create(AIndex, AColor, AImage);
+  FDanger := ADanger;
+end;
+
+end.

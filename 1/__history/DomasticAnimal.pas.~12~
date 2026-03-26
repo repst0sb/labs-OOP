@@ -1,0 +1,24 @@
+unit DomasticAnimal;
+
+interface
+
+Uses Animal, Vcl.ExtCtrls;
+
+type
+  TDomasticAnimal = class(TAnimal)
+  private
+    FNickName: string;
+  public
+    constructor Create(const AName, AColor: string; ANickName: string; AImage: TImage);
+  end;
+
+implementation
+
+constructor TDomasticAnimal.Create(const AName, AColor: string;
+  ANickName: string; AImage: TImage);
+begin
+  inherited Create(AName, AColor, AImage);
+  FNickName := ANickName;
+end;
+
+end.

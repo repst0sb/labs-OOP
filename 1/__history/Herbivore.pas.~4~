@@ -1,0 +1,15 @@
+unit Herbivore;
+
+interface
+
+uses WildAnimal;
+
+type
+  THerbivore = class(TWildAnimal)
+  private
+    MainFood: string;
+  end;
+
+implementation
+
+end.

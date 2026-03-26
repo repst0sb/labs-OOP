@@ -1,0 +1,25 @@
+unit ExoticDomastic;
+
+interface
+
+Uses DomasticAnimal;
+
+type
+  TExoticAnimal = class(TDomasticAnimal)
+  private
+    FDanger: integer;
+  public
+    constructor Create(const AName, AColor: string; ANickName: string;
+      ADanger: integer);
+  end;
+
+implementation
+
+constructor TExoticAnimal.Create(const AName, AColor: string; ANickName: string;
+  ADanger: integer);
+begin
+  inherited Create(AName, AColor, ANickName);
+  FDanger := ADanger;
+end;
+
+end.

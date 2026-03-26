@@ -1,0 +1,26 @@
+unit Animal;
+
+interface
+
+uses Vcl.ExtCtrls;
+
+type
+  TAnimal = class
+  private
+    FIndex: integer;
+    FColor: string;
+    FImage: TImage;
+  public
+    constructor Create(AIndex: integer; AColor: string; AImage: TImage);
+  end;
+
+implementation
+
+constructor TAnimal.Create(AIndex: integer; AColor: string; AImage: TImage);
+begin
+  FIndex := AIndex;
+  FColor := AColor;
+  FImage := AImage;
+end;
+
+end.

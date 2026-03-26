@@ -1,0 +1,23 @@
+unit GrassFeed;
+
+interface
+
+uses WildAnimal, Vcl.ExtCtrls;
+
+type
+  TGrassFeed = class(TWildAnimal)
+  private
+    FMainFood: string;
+  public
+    constructor Create( AColor: string; ADanger: integer;AMainFood: string;AImage: TImage);
+  end;
+
+implementation
+
+constructor TGrassFeed.Create(AColor: string; ADanger: integer;AMainFood: string; AImage: TImage);
+begin
+  inherited Create(AColor, ADanger, AImage);
+  FMainFood := AMainFood;
+end;
+
+end.

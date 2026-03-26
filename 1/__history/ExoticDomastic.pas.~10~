@@ -1,0 +1,25 @@
+unit ExoticDomastic;
+
+interface
+
+Uses DomasticAnimal, Vcl.ExtCtrls;
+
+type
+  TExoticAnimal = class(TDomasticAnimal)
+  private
+    FDanger: integer;
+  public
+    constructor Create(AColor: string; ANickName: string;
+      ADanger: integer; AImage: TImage);
+  end;
+
+implementation
+
+constructor TExoticAnimal.Create(AColor: string; ANickName: string;
+  ADanger: integer; AImage: TImage);
+begin
+  inherited Create(AColor, ANickName, AImage);
+  FDanger := ADanger;
+end;
+
+end.
